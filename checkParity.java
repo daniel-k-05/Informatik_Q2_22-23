@@ -2,7 +2,7 @@
     Informatikunterricht 31/03/22
         Details zu Paritätsbit Aufg. 2
 
-    CC Daniel Kazimierczuk 
+    CC Daniel Kazimierczuk 2022
     github.com/daniel-k-05
 */
 
